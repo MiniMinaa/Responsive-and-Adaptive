@@ -2,6 +2,7 @@ body {
     background-color: antiquewhite;
     color: #242635;
     margin: 50px 50px;
+    font-family: "Mulish", sans-serif;
 }
 .fa-solid {
     display: none;
@@ -53,7 +54,7 @@ body {
         display: flex;
         flex-direction: column;
         align-items: center;
-        justify-content: center;   
+        justify-content: center;  
     }
 }
 @media screen and (max-width: 650px) {
